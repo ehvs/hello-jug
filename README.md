@@ -1,5 +1,5 @@
 # hello-jug
-Demo for JUG
+Demo for JUG to demonstrate the hability of creating Java Applications as using Springboot and transforming as a container through Openshift methods of building an image from Dockerfile.
 
 ## Pre-req
 Make sure of having locally imported the image stream for [RedHatOpenJDK](https://access.redhat.com/containers/?tab=overview&platform=openshift#)
